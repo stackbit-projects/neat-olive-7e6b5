@@ -29,23 +29,49 @@ seo:
       value: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
 layout: post
 ---
+![](https://www.edubiz.ro/wp-content/uploads/2021/05/Cover-Intern-\_-BLOG-edubiz-1024x576.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla orci diam, elementum consectetur elit non, tempus varius leo. In ut bibendum mauris. Vestibulum mattis pharetra enim. Maecenas ornare vulputate nisi sed condimentum. Fusce sit amet cursus nunc. Vivamus malesuada posuere mollis. Aliquam facilisis neque eget ligula aliquam consequat.
+Tinerii, precum și adulții, trebuie să fie pregătiți pentru întrebările ce vor fi puse în timpul unui interviu pentru un job, dar doar atât nu este de ajuns. Nu ne putem comporta oricum în acele circumstanțe oficiale, iar atitudinea este totul. Pentru un adolescent ce nu a mai trecut prin această experiență, tot procesul poate părea extrem de complicat, mai ales pentru că nu a fost învățat anumite reguli. Unii dintre noi poate au trecut prin interviuri în contextul unui proiect Erasmus, înscrierii la un voluntariat ș.a. Acestea reprezintă modalități utile de exercițiu pentru ce va urma.
+![](https://www.edubiz.ro/wp-content/uploads/2021/05/1-1024x768.jpg)
 
-![Block Image](/images/art.svg)
+Pe lângă cunoștințele ce vor fi testate în timpul interviului, persoanele ce vă vor evalua se vor concentra pe *business etiquette*, sau eticheta de muncă, adică un cod care guvernează așteptările comportamentului social la un loc de muncă, de exemplu. Intervievatorul va fi atent la abilitățile de comunicare și maniere. Comportamentul nerespectuos îi va lăsa intervievatorului un gust amar și impresia că are de-a face cu o persoană superficială, nepoliticoasă, care nu ar putea interacționa cum se cuvine cu clienții. Câteva sfaturi legate de respectarea etichetei ar fi:
 
-Pellentesque tempor aliquet dolor, ac consectetur lorem ornare id. Vestibulum sit amet facilisis elit, sit amet rhoncus felis. Nunc rhoncus porttitor sollicitudin. Quisque eu leo metus. Curabitur gravida nibh eu nunc tempus suscipit. Donec quis magna id lacus eleifend volutpat. Suspendisse ac mattis velit, vel sagittis metus. Etiam non massa eu lectus maximus elementum. Etiam id aliquet quam. Vestibulum id lacinia ex, in rutrum metus. Donec varius auctor ligula.
+*   Fii punctual! Cel mai sigur este să ajungi cu câteva minute înainte de începerea interviului.
 
-Sed sit amet enim placerat, faucibus nisl et, porta ipsum. Integer efficitur nulla id orci varius, in lobortis magna viverra. Praesent volutpat nunc velit, eget dignissim orci sagittis vitae. Aliquam erat volutpat. Praesent sollicitudin, enim nec interdum suscipit, ipsum augue varius massa, in vestibulum ante urna quis orci. Cras tristique mollis pellentesque. Sed maximus massa at nisl lobortis efficitur vel nec risus.
+*   Mulțumește intervievatorului
 
-### This is a H3. Use it for subheads and subsections.
+*   Îmbracă-te într-un mod corespunzător, nici prea lejer, dar nici mult prea formal
 
-Donec malesuada, augue eu blandit porta, metus metus auctor leo, non dapibus felis odio non tortor. Mauris sem orci, tristique eget [this is an inline link](https://www.google.com) placerat non, eleifend tempor dolor. Quisque sed nisl elit. Praesent pulvinar id urna quis cursus. In hac habitasse platea dictumst. Mauris sed odio magna. Duis felis turpis, posuere at erat nec, condimentum luctus nibh. Nam leo ante, tempor ut tellus vel, lacinia aliquam velit. Mauris ut purus in nisl suscipit feugiat.
+*   Păstrează-ți  telefonul mobil pe modul silențios
 
-***
+*   Nu cere răcoritoare
 
-Pellentesque tempor aliquet dolor, ac consectetur lorem ornare id. Vestibulum sit amet facilisis elit, sit amet rhoncus felis. Nunc rhoncus porttitor sollicitudin. Quisque eu leo metus. Curabitur gravida nibh eu nunc tempus suscipit. Donec quis magna id lacus eleifend volutpat. Suspendisse ac mattis velit, vel sagittis metus. Etiam non massa eu lectus maximus elementum. Etiam id aliquet quam. Vestibulum id lacinia ex, in rutrum metus. Donec varius auctor ligula.
+*   Nu ocupa biroul cu propriile tale lucruri
 
->"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ultrices dignissim gravida. Curabitur pharetra turpis risus, eu bibendum ipsum maximus sed. Ut vel euismod elit. Proin neque erat, sagittis quis tortor ut, pharetra semper ligula. Nunc vehicula, diam in consectetur vestibulum, sem felis imperdiet nisi, ac interdum mi erat sit amet sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi ut nulla ornare, posuere ligula eget, convallis elit. Nullam cursus vel ex et lacinia. Nunc feugiat dictum purus, faucibus malesuada risus gravida a. Morbi a sagittis lectus. Nullam lacus mauris, luctus eget pharetra in, aliquet quis lorem. Morbi ornare rhoncus dapibus. Praesent eu ipsum a metus pretium dictum. Fusce egestas nibh mauris, at condimentum ex fringilla quis. Duis in accumsan orci. Morbi leo ligula, tincidunt ac diam ut, hendrerit lobortis metus."
+![](https://www.edubiz.ro/wp-content/uploads/2021/05/2-1024x768.jpg)
 
-Sed sit amet enim placerat, faucibus nisl et, porta ipsum. Integer efficitur nulla id orci varius, in lobortis magna viverra. Praesent volutpat nunc velit, eget dignissim orci sagittis vitae. Aliquam erat volutpat. Praesent sollicitudin, enim nec interdum suscipit, ipsum augue varius massa, in vestibulum ante urna quis orci. Cras tristique mollis pellentesque. Sed maximus massa at nisl lobortis efficitur vel nec risus. Aenean tincidunt et lectus vel dapibus. Fusce pellentesque id felis id faucibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet nibh non elit vulputate placerat. Sed vitae lacinia ligula. Sed suscipit eu nulla sit amet feugiat. Nullam ut ultricies nulla, at convallis massa.
+Un alt element important ar fi tonul vocii, fiindcă ar fi ideal să vorbești cu încredere în tine. De asemenea, gândește răspunsul întrebării înainte de a începe să-l spui și nu ridica sau coborî tonul vocii în timpul sau la finalul enunțului, pentru a nu crea confuzii. Acesta trebuie să fie moderat, dar totuși interesat.
+
+
+În legătură cu conținutul răspunsurilor, el poate fi pregătit de dinainte, întrebările pot fi repetate, iar cel mai bine ar fi să
+
+*   Fii sincer, clar și concis
+
+*   Eviți subiectele controversate
+
+*   Eviți pauzele pentru “ă”
+
+*   Folosirea unor cuvinte mai elevate te-ar pune într-o lumină bună
+
+*   Ceri feedback pentru a știi dacă ai răspuns destul de detaliat la întrebarea respectivă
+
+*   Îmbunătățirea limbajului corpului- încearcă să controlezi ticurile nervoase, cum ar fi mușcatul buzelor sau datul din picior
+
+![](https://www.edubiz.ro/wp-content/uploads/2021/05/3-1024x768.jpg)
+
+În esență, comportamentul, atitudinea, modul în care te exprimi și vorbești sunt la fel de importante ca și conținutul, deci trebuie repetate. La Academia de Leadership Edubiz, tinerii au oportunitatea de a învăța toate acestea prin intermediul mai multor workshop-uri, deoarece sunt skill-uri de care fiecare din noi va avea nevoie mai devreme sau mai târziu.
+
+
+
+
+Surse-<https://edu.gcfglobal.org/en/interviewingskills/what-to-do-during-an-interview/1/>
