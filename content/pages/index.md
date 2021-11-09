@@ -4,7 +4,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: Mara Carabas
-    subtitle: '### This is a super-cool hero subhead.'
+    subtitle: |+
+      ### This page is just for me.
+
     image: images/avatar.png
     image_alt: Author avatar
   - title: Text
