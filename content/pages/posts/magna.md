@@ -1,5 +1,5 @@
 ---
-title: 'Cum te '
+title: Cum te pregătești pentru un interviu de angajare
 subtitle: A cautionary tale about Magna etiam
 excerpt: >-
   Phasellus in ante vitae nibh porttitor tempus vitae ut ante. Vestibulum
