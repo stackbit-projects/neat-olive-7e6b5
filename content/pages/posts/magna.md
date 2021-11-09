@@ -1,7 +1,7 @@
 ---
 title: Cum te pregătești pentru un interviu de angajare
 subtitle: A cautionary tale about Magna etiam
-excerpt: "Pe lângă cunoștințele ce vor fi testate în timpul interviului, persoanele ce vă vor evalua se vor concentra pe\_business etiquette, sau eticheta de muncă, adică un cod care guvernează așteptările comportamentului social la un loc de muncă, de exemplu. Intervievatorul va fi atent la abilitățile de comunicare și maniere. Comportamentul nerespectuos îi va lăsa intervievatorului un gust amar și impresia că are de-a face cu o persoană superficială, nepoliticoasă, care nu ar putea interacționa cum se cuvine cu clienții. Câteva sfaturi legate de respectarea etichetei ar fi:"
+excerpt: "Pe lângă cunoștințele ce vor fi testate în timpul interviului, persoanele ce vă vor evalua se vor concentra pe\_business etiquette, sau eticheta de muncă, adică un cod care guvernează așteptările comportamentului social la un loc de muncă, de exemplu.  Câteva sfaturi legate de respectarea etichetei ar fi:"
 date: '2016-09-04'
 thumb_img_path: images/art.svg
 thumb_img_alt: Geometric pattern
