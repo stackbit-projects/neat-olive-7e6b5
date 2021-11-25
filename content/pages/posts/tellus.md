@@ -1,6 +1,6 @@
 ---
 title: 14 filme pe care să le vezi toamna aceasta
-date: '2020-10-22'
+date: '2020-10-09'
 thumb_img_path: /images/tv.jpeg
 thumb_img_alt: Geometric pattern
 seo:
