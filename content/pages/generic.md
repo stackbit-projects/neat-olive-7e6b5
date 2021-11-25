@@ -30,7 +30,9 @@ Pellentesque tempor aliquet dolor, ac consectetur lorem ornare id. Vestibulum si
 
 ## Reading
 
-I enjoy reading for the reason that it helps me escape this reality and immerse myself into new unique worlds. Besides escapism, through reading I expand my horizons, acquire more general knowledge, form a better vocabulary etc. I have to admit that I do not have enough time to read nowadays, but whenever I am not busy, I try to gratify it.
+I enjoy reading for the reason that it helps me escape this reality and immerse myself into new unique worlds. Besides escapism, through reading I expand my horizons, acquire more general knowledge, form a better vocabulary etc. I have to admit that I do not have enough time to read nowadays, but whenever I am not busy, I try to gratify it. 
+
+Some of my favourite books are (aici pun si poze si scriu putin despre ce e fiecare)
 
 ### This is a H3. Use it for subheads and subsections.
 
