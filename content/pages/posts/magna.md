@@ -1,5 +1,5 @@
 ---
-title: Cum te pregătești pentru un interviu de angajare
+title: ceva
 subtitle: Un ghid pentru tineri
 date: '2021-05-27'
 thumb_img_alt: Geometric pattern
