@@ -23,6 +23,11 @@ seo:
     - name: 'twitter:description'
       value: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
 layout: post
+excerpt: >-
+  De obicei nu pregătesc nimic special pentru sărbători, deoarece nu prea am
+  experimentat în bucătărie și nu m-am strofocat să gătesc mare lucru de-a
+  lungul timpului. Cu toate acestea, am fost foarte motivată să prepar ceva
+  special cu ocazia scrierii acestui articol: turtă dulce!
 ---
 *O rețetă dulce de Crăciun*
 ![](https://lh6.googleusercontent.com/sKJ\_\_dqMHYmzKLEAEHQIawAImkHN59dvDDOjTfyh3U5IVbXapGgESob3x4cV3FeRLCo6u0rafO3I4Lh3UoA9H1aQ73dE6It5GUWQwhvB7f3f6SG1\_KcxPG9IS5gjYHchsosz797Vy7y7Dppy4A)![](https://lh5.googleusercontent.com/RGjXxtKbVI7HhQrjkOtQRD1ojCnu09oW0m3D70LItyHam80J-AnLOX9TAUZJ84ZDTkC_H\_1S0XrTJMu5fSSfbUURdtZxO1RSxDioeeSLwmRMbkc4pOwwCTAPTzmthwsELqO6L-h_Uhv6wpag3A)![](https://lh4.googleusercontent.com/lE58hNCM4XpdNBC0rwgMBmpTyBo_DaneIdbOCQQS_yQENIhVi-Xuv2KllIBsMC4\_E1k5K8iDoxNtSzArfXX_H0IOF7awkv9UOLhDbQ1K5GYFahzIRbLRZEq1xqFLmFNKhDse_jCgxbYbuwyWRw)![](https://lh4.googleusercontent.com/qubaGDleOpDa8p2gjqNJ4GNtK4ePpOPmV8HY6173N0EZ-MJx1fQ3TPc6QFr97RBv5E5the_S0hkJi56sl1mQqYlUkNj8CCmE6cZhrYg38DNmhZmAVNHO0J8d\_6JfIvOsGvBBkCfnNxh4qeyznw)![](https://lh6.googleusercontent.com/h06h3o6eTd9ttB_f2iBRteJrfmrw-BfF--M1EtLtATTMqcAUlH3BL_v7y-ZDqxmSA-nufQCajZBN80ybiIrVKOjm1HzTtT13HDvPKK-5aG5yCoQSgKedfHhlAhDZ8Qb7iPwYspAeDVI3ciJDUg)![](https://lh4.googleusercontent.com/KTE9xJ9mvjsOB9P29BQntCeyqaw3unRQ6A2WgmQaNlFfMTRuwsG2ozdMp6vLFsVB3p6CYQDyWdX-ZuB9PPdNPf-WpnNWCo-0qXlr-XfN2-mXsRRBid8ZjMWB5jTwW9FAvhQc99Lh-89JncAovg)
