@@ -25,6 +25,15 @@ seo:
 layout: post
 content_img_path: /images/image_2021-11-09_215817.png
 thumb_img_path: /images/1-1536x1152.jpeg
+excerpt: >-
+  Tinerii, precum și adulții, trebuie să fie pregătiți pentru întrebările ce vor
+  fi puse în timpul unui interviu pentru un job, dar doar atât nu este de ajuns.
+  Nu ne putem comporta oricum în acele circumstanțe oficiale, iar atitudinea
+  este totul. Pentru un adolescent ce nu a mai trecut prin această experiență,
+  tot procesul poate părea extrem de complicat, mai ales pentru că nu a fost
+  învățat anumite reguli. Unii dintre noi poate au trecut prin interviuri în
+  contextul unui proiect Erasmus, înscrierii la un voluntariat ș.a. Acestea
+  reprezintă modalități utile de exercițiu pentru ce va urma.
 ---
 ![](https://www.edubiz.ro/wp-content/uploads/2021/05/Cover-Intern-\_-BLOG-edubiz-1024x576.jpg)
 
