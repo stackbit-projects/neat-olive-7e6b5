@@ -32,7 +32,7 @@ sections:
     type: section_posts
     has_more_link: true
     more_link_text: Read more
-  - title: lorem-ipsum
+  - title: ceva
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     type: section_content
