@@ -1,5 +1,5 @@
 ---
-title: O re
+title: O rețetă de Crăciun
 date: '2020-12-16'
 thumb_img_path: /images/blog.png
 thumb_img_alt: Geometric pattern
