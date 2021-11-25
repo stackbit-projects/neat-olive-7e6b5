@@ -22,3 +22,8 @@ seo:
       value: Aliquam lobortis faucibus blandit
 layout: page
 ---
+## Pieces written by myself
+
+### "Cum schimba tinerii lumea"
+
+###
