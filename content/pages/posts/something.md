@@ -3,7 +3,7 @@ title: Cum schimbă tinerii lumea
 content_img_alt: lorem-ipsum
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
-date: '2021-11-25'
+date: '2021-11-15'
 seo:
   title: ''
   description: ''
