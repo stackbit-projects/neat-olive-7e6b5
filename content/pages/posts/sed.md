@@ -1,7 +1,7 @@
 ---
 title: Sed feugiat et mauris adipiscing dolor
 date: '2020-12-16'
-thumb_img_path: images/art.svg
+thumb_img_path: /images/blog.png
 thumb_img_alt: Geometric pattern
 seo:
   title: Sed feugiat et mauris adipiscing dolor
