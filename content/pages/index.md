@@ -34,6 +34,11 @@ sections:
     more_link_text: Read more
   - title: lorem-ipsum
     section_id: lorem-ipsum
+    has_more_link: true
+    more_link_text: lorem-ipsum
+    type: section_posts
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
     image_alt: lorem-ipsum
     type: section_content
 seo:
