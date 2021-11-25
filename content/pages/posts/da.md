@@ -3,10 +3,10 @@ title: 14 filme pe care să le vezi toamna aceasta
 content_img_alt: lorem-ipsum
 thumb_img_alt: lorem-ipsum
 excerpt: >-
-  Spre deosebire de vară, cu zilele ei călduroase și lungi, toamna este mai
-  întunecată și cu nopți din ce în ce mai lungi. Toamna este răcoare, înnorat,
-  ploios, iar această atmosferă este perfect reflectată în artă: literatură,
-  muzică ori chiar film.
+  Cât te expune social media?      Orice tânăr petrece o bună parte din zi pe
+  propriul telefon, în special pe rețelele de socializare, pentru a-și pierde
+  timpul. În principiu, ne uităm ore în șir la lucruri care teoretic nu sunt
+  relevante.. dar de fapt contează.
 date: '2020-10-09'
 seo:
   title: ''
