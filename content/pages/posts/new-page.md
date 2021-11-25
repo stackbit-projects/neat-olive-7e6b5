@@ -3,7 +3,6 @@ title: Tinerii și social media
 subtitle: lorem-ipsum
 content_img_alt: lorem-ipsum
 thumb_img_alt: lorem-ipsum
-excerpt: lorem-ipsum
 date: '2021-11-25'
 seo:
   title: ''
