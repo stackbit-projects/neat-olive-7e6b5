@@ -9,6 +9,13 @@ seo:
   robots: []
   extra: []
 layout: post
+excerpt: >-
+  Majoritatea adulților văd dependența de dispozitivele electronice și de
+  rețelele de socializare a adolescenților ca o trăsătură caracteristică a
+  generației, însă mulți dintre ei nu văd mai departe de atât. Tinerii din ziua
+  de azi au crescut cu o tehnologie avansată, într-o lume cu o dezvoltare foarte
+  rapidă, iar aceasta îi face foarte diferiți față de cei de dinaintea lor,
+  având o gândire mai deschisă.
 ---
 **Majoritatea adulților văd dependența de dispozitivele electronice și de rețelele de socializare a adolescenților ca o trăsătură caracteristică a generației, însă mulți dintre ei nu văd mai departe de atât. Tinerii din ziua de azi au crescut cu o tehnologie avansată, într-o lume cu o dezvoltare foarte rapidă, iar aceasta îi face foarte diferiți față de cei de dinaintea lor, având o gândire mai deschisă.**
 
