@@ -11,6 +11,13 @@ seo:
   extra: []
 layout: post
 thumb_img_path: /images/soc.jpeg
+excerpt: >-
+  În ultimii ani, oamenii au petrecut din ce în ce mai puțin din timpul lor
+  liber citind, având noi metode alternative mulțumită internetului. Astfel, în
+  15 ani, media minutelor petrecute citind într-o zi a scăzut cu peste 26%.
+  Dintre cititori, cei mai activi sunt oamenii cu vârsta peste 75 de ani. În
+  capătul opus se află tinerii cu vârste cuprinse între 20 și 34 de ani,
+  adolescenții nefiind foarte departe de aceștia.
 ---
 #### *Cât te expune social media?*
 
