@@ -1,7 +1,7 @@
 ---
 title: 14 filme pe care să le vezi toamna aceasta
 date: '2016-08-22'
-thumb_img_path: images/art.svg
+thumb_img_path: /images/tv.jpeg
 thumb_img_alt: Geometric pattern
 seo:
   title: Tellus magna dolore sed elementum
