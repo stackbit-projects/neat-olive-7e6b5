@@ -14,6 +14,7 @@ seo:
   robots: []
   extra: []
 layout: post
+thumb_img_path: /images/soc-89027310.jpeg
 ---
 Nu știi la ce să te uiți în seara asta? Edubiz îți oferă 14 recomandări de toamnă!![](https://lh3.googleusercontent.com/nTUhne40wj2hqeVuzPd9NhQ4DJcxysacLxVkuEjx3YupIHwKaaD2zmr-3Ao-btKr4YTJ6m1d5FsHiBmwYOxkbPCyPwpwfgfLxQpsm4dA6RIqbjOwgXN35pPpsuV7JDTIWQI\_8B5mwY61MqIhmw)![](https://lh5.googleusercontent.com/SDVZF5n8KdOOmUxD5e1ittO5Nk0HDLnxSvxTvCRr60Dsr2CA4Xw5h4b7H9o9vkP84Saca3TjhXXiVAJETLsm-j-S3qzXvAbEpN5-G7PqCnD-xEyka5VaIgF7B4sDQUFQh58yoNZuZb8wKTctdQ)
 
