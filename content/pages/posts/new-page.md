@@ -16,7 +16,7 @@ excerpt: >-
   timpul. În principiu, ne uităm ore în șir la lucruri care teoretic nu sunt
   relevante.. dar de fapt contează.
 ---
-####
+#### *Cât te expune social media?*
 
 *Cât te expune social media?*![](https://lh3.googleusercontent.com/jUkAkjG1-wfZp6JS1mPVGClgd6IMe1pl-ARv5ot_qBwY2jFiQJnGc7Ohu61-1EV7z7P-AAyHcUFSg81trKPV4bxjK64FeF11o\_6uolGqhXSjxHG5lG8un_ZVbWd0hGHXdTwmxWI)![](https://lh5.googleusercontent.com/t\_3wrGzlkBqnYP7szwU87LjCsZYRN8OoiYuKXG-EV-k7xyj2ykC519\_1ybiWM8dskbvCq7oSka7OO_WvUaDvjX8\__M7\_6pWFk9vJkAF9Rkof0mKHVv2OnFVKW_lXterTcWlg8J8)
 
