@@ -1,6 +1,5 @@
 ---
 title: My interests
-subtitle: 'I will use this page to '
 seo:
   title: Just a Generic Page
   description: This is a generic page
