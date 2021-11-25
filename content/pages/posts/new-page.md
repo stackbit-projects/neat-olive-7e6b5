@@ -10,7 +10,7 @@ seo:
   robots: []
   extra: []
 layout: post
-thumb_img_path: /images/soc.jpeg
+thumb_img_path: /images/carti-973551e0.jpeg
 excerpt: >-
   În ultimii ani, oamenii au petrecut din ce în ce mai puțin din timpul lor
   liber citind, având noi metode alternative mulțumită internetului. Astfel, în
