@@ -2,7 +2,7 @@
 title: Cum te pregătești pentru un interviu de angajare
 subtitle: Un ghid pentru tineri
 excerpt: "Pe lângă cunoștințele ce vor fi testate în timpul interviului, persoanele ce vă vor evalua se vor concentra pe\_business etiquette, sau eticheta de muncă, adică un cod care guvernează așteptările comportamentului social la un loc de muncă, de exemplu.  Câteva sfaturi legate de respectarea etichetei ar fi..."
-date: '2021-05-04'
+date: '2021-05-27'
 thumb_img_alt: Geometric pattern
 seo:
   title: Magna etiam sed lorem ipsum dolor amet
