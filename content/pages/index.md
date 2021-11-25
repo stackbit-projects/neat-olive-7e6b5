@@ -39,11 +39,6 @@ sections:
     type: section_posts
     has_more_link: true
     more_link_text: Read more
-  - title: A Cat
-    section_id: cat
-    type: section_content
-    image: images/art.svg
-    image_alt: Geometric pattern
 seo:
   title: Stackbit Vanilla Theme
   description: The preview of the Vanilla theme
