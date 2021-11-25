@@ -24,7 +24,6 @@ seo:
       value: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
 layout: post
 content_img_path: /images/image_2021-11-09_215817.png
-thumb_img_path: /images/image_2021-11-09_221037.png
 ---
 ![](https://www.edubiz.ro/wp-content/uploads/2021/05/Cover-Intern-\_-BLOG-edubiz-1024x576.jpg)
 
