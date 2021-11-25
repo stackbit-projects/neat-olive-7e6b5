@@ -1,6 +1,5 @@
 ---
 title: 14 filme pe care să le vezi toamna aceasta
-subtitle: lorem-ipsum
 content_img_alt: lorem-ipsum
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
