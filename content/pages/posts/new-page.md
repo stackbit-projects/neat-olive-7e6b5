@@ -29,3 +29,11 @@ Poate că toate acestea provin din procrastinare ori lene, însă este clar că 
     Cu toate acestea, rețelele de socializare au și multe *beneficii*, cum ar fi posibilitatea de *a te conecta* cu prieteni sau alte persoane, de a descoperi informații noi, conținut motivațional, de a lucra împreună cu mii de oameni pentru a răspândi cauze, mesaje importante. Internetul este un izvor al informației și un loc al comunicării, iar aceste aplicații sunt o parte importantă din el. Astfel, se poate face asocierea dintre social media și un oraș, amândouă fiind containere create pentru interacțiuni sociale. Orașul este realizat din două lumi: cea a ideilor, a culturii și cea a tehnologiei, care dă viață poveștii orașului și o perpetuează. Locuitorii învață povestea cu scopul de a se dezvolta, a crește și a prospera. Persoana care creează povestea controlează oamenii. Dacă rețelele de socializare sunt orașe, ce doresc să producă? Răspunsul este consumatorul. Povestea este întruchipată în tehnologia pe care noi o cunoaștem ca newsfeed. În acest oraș, ne putem face propria casă, care să fie construită în jurul propriilor interese și valori, un “safe space” pentru fiecare, lipsit de ură și negativitate. Acest lucru se poate realiza prin urmărirea paginilor de acest gen, și folosirea opțiunii mute în cazul conținutului care nu este bun pentru noi. În mod normal, rețelele de socializare sunt programate să ne recomande lucruri care sunt populare în zona noastră, ori în lume în general, lucruri care nu au legătură cu noi și nu ne sunt utile, însă putem schimba aceasta pentru a trăi într-un *mediu mai healthy online.*
 
     Rețelele de socializare au avantaje și dezavantaje, dar secretul este să *controlăm* la ce ne uităm și să evităm influențele negative pe cât posibil, dar și să *moderăm timpul* petrecut pe telefoane prin aplicații cu limite de timp, iar dacă nu reușim acest lucru, o *pauză* este mereu bine venită.
+
+Sursă- <https://www.youtube.com/watch?v=x4Atnti70cM>
+<https://www.edubiz.ro/2020/09/30/cat-te-expune-social-media/>
+
+
+
+
+
