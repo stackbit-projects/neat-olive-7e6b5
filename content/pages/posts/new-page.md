@@ -10,6 +10,11 @@ seo:
   robots: []
   extra: []
 layout: post
+excerpt: >-
+  Cât te expune social media?      Orice tânăr petrece o bună parte din zi pe
+  propriul telefon, în special pe rețelele de socializare, pentru a-și pierde
+  timpul. În principiu, ne uităm ore în șir la lucruri care teoretic nu sunt
+  relevante.. dar de fapt contează.
 ---
 ####
 
