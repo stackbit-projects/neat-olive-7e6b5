@@ -7,7 +7,7 @@ excerpt: >-
   propriul telefon, în special pe rețelele de socializare, pentru a-și pierde
   timpul. În principiu, ne uităm ore în șir la lucruri care teoretic nu sunt
   relevante.. dar de fapt contează.
-date: '2020-10-09'
+date: '2020-09-30'
 seo:
   title: ''
   description: ''
