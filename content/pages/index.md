@@ -25,7 +25,7 @@ sections:
 
       All the articles below were already published either online or in the
       newspaper.
-    image: images/avatar.png
+    image: /images/carti.jpeg
     image_alt: test
   - title: Recent Posts
     section_id: posts
