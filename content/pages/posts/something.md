@@ -1,6 +1,5 @@
 ---
 title: Cum schimbă tinerii lumea
-subtitle: lorem-ipsum
 content_img_alt: lorem-ipsum
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
