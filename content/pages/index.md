@@ -7,7 +7,7 @@ sections:
     subtitle: |+
       ### This page is just for me.
 
-    image: images/avatar.png
+    image: /images/poza cv-f6b66bff.jpeg
     image_alt: Author avatar
   - title: Text
     section_id: intro
