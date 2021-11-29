@@ -9,10 +9,6 @@
             {
                 "label": "Home",
                 "url": "/"
-            },
-            {
-                "label": "My interests",
-                "url": "/generic/"
             }
         ]
     },
