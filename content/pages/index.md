@@ -23,7 +23,7 @@ sections:
       ### What I have published so far
 
 
-      All the articles below were already published either online or in the
+      All the articles below were already published either online or in a
       newspaper.
     image: /images/carti.jpeg
     image_alt: test
